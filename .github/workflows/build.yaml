@@ -1,4 +1,4 @@
-name: Release
+name: android_build
 
 # 触发条件: 这里是push以”v“开头的tag触发
 on:
